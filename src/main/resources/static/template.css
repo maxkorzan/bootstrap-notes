@@ -1,0 +1,14 @@
+/*types*/
+p { color: yellow;}
+h1 {text-align: center}
+body{background-color: rgba(255,255,200,.7)}
+
+/*class*/
+.movingtothecenter {
+    text-align: center;
+}
+
+/*id*/
+#name {
+    color : pink;
+}
